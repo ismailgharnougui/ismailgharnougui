@@ -72,7 +72,7 @@ I am completely passionate about frontend backend development , I love listening
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/>
 </p>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ismailgharnougui-1&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ismailgharnougui&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <details open>
   <summary> <b>Stats</b>: </summary>
