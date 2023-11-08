@@ -46,7 +46,15 @@ I am completely passionate about frontend backend development , I love listening
 - 📫 How to reach me: aziz.270700@gmail.com.
 - 😄 Pronouns: Sam3oulation,Ismail.
 -->
+<h1 align="center">
+ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
+   <strong> Hey there,I'm Arij Hajji</strong> 
+ <p align="center">
+  <img src="https://github-readme-quotes-2o3w.vercel.app/api?type=horizontal&theme=github" />
 
+      <h4> Visitors :</h4> <img src="https://visitor-count-b8lb.vercel.app/api/arijhajji-1?hexColor=5ed4f3" />
+   </p>
+</h1>
 
 <!-- Skills  -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
