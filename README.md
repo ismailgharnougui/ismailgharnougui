@@ -18,7 +18,7 @@
 <!--  About me -->
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-I'm Ismail Elgharnougui a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 21 years old and Content Creator on [Youtube](https://www.youtube.com/channel/UCJkso9ngrrJc053xcbAp_-A)
+I'm Ismail Elgharnougui a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 22 years old and Content Creator on [Youtube](https://www.youtube.com/channel/UCJkso9ngrrJc053xcbAp_-A)
 I am completely passionate about frontend backend development , I love listening to music , watching movies, series and sharing it with my friends.
 <img height ="20" src= "assets/friends.gif" />
 
@@ -34,9 +34,6 @@ I am completely passionate about frontend backend development , I love listening
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/ismailgharnougui?style=social)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ismailgharnougui.ismailgharnougui)
-<img src="https://img.shields.io/badge/Age-21-blue" />
-
 <!-- Ligne  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!-- TODO: Add last video link 
