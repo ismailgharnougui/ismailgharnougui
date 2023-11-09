@@ -31,9 +31,7 @@ I am completely passionate about frontend backend development , I love listening
 [![Mail Badge](https://img.shields.io/badge/-@IsmailElgharnougui-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ismailgharnougui/)
 [![Mail Badge](https://img.shields.io/badge/-IsmailElgharnougui-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ismail.elgharnougui@esprit.tn)
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
-![GitHub followers](https://img.shields.io/github/followers/ismailgharnougui?style=social)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 
  <p align="center">
