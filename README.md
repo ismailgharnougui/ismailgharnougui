@@ -52,7 +52,7 @@ I am completely passionate about frontend backend development , I love listening
 
 
 
-![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=ismailgharnougui-1&theme=radical&row=1&column=10)
+![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=ismailgharnougui&theme=radical&row=1&column=10)
 
 
 ## 💎 My Values
