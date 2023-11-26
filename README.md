@@ -1,38 +1,17 @@
-
-<h1 align="center"><b>Hi , I'm Ismail Elgharnougui </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+## Introduction
 <p align="center">
- 
+<img src="https://readme-typing-svg.demolab.com/?lines=1+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
-<!-- 
+
+<h3 align="center">Hey there, I'm <a href="https://github.com/ismailgharnougui">Ismail Elgharnougui</a></h3>
+<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
+
 <p align="center">
-  
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0099DD&size=30&lines=Hey!+It's+ismailgharnougui!;Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things)](https://github.com/ismailgharnougui) 
-
-  </p> -->
-<!--  Ceci mon Avatar-->
-
-
-<!--  Ceci une image -->
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 200px></picture>
-
-<!--  About me -->
-<!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-I'm Ismail Elgharnougui a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 22 years old and Content Creator on [Youtube](https://www.youtube.com/channel/UCJkso9ngrrJc053xcbAp_-A)
-I am completely passionate about frontend backend development , I love listening to music , watching movies, series and sharing it with my friends.
-<img height ="20" src= "assets/friends.gif" />
-
-<!-- Let's Connect..! -->
-# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@AzizBenIsmail-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BenIsmalAziz1?s=07)](https://twitter.com/BenIsmalAziz1?s=07)  -->
-[![Mail Badge](https://img.shields.io/badge/-IsmailElgharnougui-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJkso9ngrrJc053xcbAp_-A) 
-[![Linkedin Badge](https://img.shields.io/badge/-IsmailElgharnougui-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-elgharnougui/) 
-[![Mail Badge](https://img.shields.io/badge/-@IsmailElgharnougui-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ismailgharnougui/)
-[![Mail Badge](https://img.shields.io/badge/-IsmailElgharnougui-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ismail.elgharnougui@esprit.tn)
-
-
-
+  <a href="https://www.youtube.com/c/IsmailElgharnouhui"><img alt="Youtube" title="Youtube" src="https://www.youtube.com/channel/UCJkso9ngrrJc053xcbAp_-A&logo=youtube&logoColor=white"/></a>
+<a href="https://github.com/ismailgharnougui?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ismailgharnougui?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <a href="https://github.com/ismailgharnougui"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+ </p>
 
  <p align="center">
   <img src="https://github-readme-quotes-2o3w.vercel.app/api?type=horizontal&theme=github" />
@@ -43,11 +22,6 @@ I am completely passionate about frontend backend development , I love listening
 <h3 align="center">A passionate Web developer from Tunisia</h3>
 
 - 🎓 I’m currently a Software Engineering Student at [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/)
-
-- 🌱 I’m currently looking for  **End of studies internship**
-
-- 👯 I’m looking to collaborate on **new projects**
-
 - 📫 How to reach me **ismail.elgharnougui@esprit.tn**
 
 
@@ -58,7 +32,6 @@ I am completely passionate about frontend backend development , I love listening
 ## 💎 My Values
 
 
-💡 Mindset of Learning ,Curiosity & Digging up <br/>
 🙌 Teamwork & Communication & Leadership<br/>
 🙋‍♂️ Autonomous <br/>
 🕺 & More to discover ...
