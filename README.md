@@ -13,8 +13,7 @@
    <a href="https://github.com/ismailgharnougui"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ismailgharnougui?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
  </p>
 
- <p align="center">
-  <img src="https://github-readme-quotes-2o3w.vercel.app/api?type=horizontal&theme=github" />
+
 
       <h4> Visitors :</h4> <img src="https://visitor-count-b8lb.vercel.app/api/ismailgharnougui?hexColor=5ed4f3" />
    </p>
