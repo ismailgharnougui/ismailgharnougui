@@ -27,7 +27,8 @@
 <h3 align="center">A passionate Web developer from Tunisia</h3>
 
 - 🎓 I’m currently a Software Engineering Student at [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/)
-- 📫 How to reach me **ismail.elgharnougui@esprit.tn**
+- 📫 How to reach me : ismail.elgharnougui@esprit.tn
+
 
 
 
