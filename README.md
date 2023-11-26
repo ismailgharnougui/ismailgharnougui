@@ -7,10 +7,10 @@
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <p align="center">
-  <a href="https://www.youtube.com/c/IsmailElgharnouhui"><img alt="Youtube" title="Youtube" src="https://www.youtube.com/channel/UCJkso9ngrrJc053xcbAp_-A&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/UCJkso9ngrrJc053xcbAp_-A"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://github.com/ismailgharnougui?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ismailgharnougui?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-   <a href="https://github.com/ismailgharnougui"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+   <a href="https://github.com/ismailgharnougui"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ismailgharnougui?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
  </p>
 
  <p align="center">
