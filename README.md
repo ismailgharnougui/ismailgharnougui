@@ -44,7 +44,7 @@
 
 <h3 align="left">Languages ,Tools and DB:</h3> 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,nodejs,expressjs,laravel,angular,nextjs,spring,maven,hibernate,django,react,redux,symfony,dotnet,mongodb,mysql,sqlite,postgres,graphql,linux,git,github,githubactions,gitlab,postman,docker,stackoverflow,prisma,apollo,vscode,idea,c,cpp,nestjs,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,laravel,angular,spring,maven,django,symfony,dotnet,mysql,sqlite,postgres,graphql,linux,git,github,githubactions,gitlab,postman,stackoverflow,vscode,c,cpp,tailwindcss" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/>
 </p>
@@ -62,5 +62,14 @@
 </a>
 
 
+### 📺 Latest YouTube Videos
 
+<!-- BEGIN YOUTUBE-CARDS -->
+[![l’ORM doctrine (Partie 2) Symfony](https://ytcards.demolab.com/?id=VybxPh8Trls&title=Win+this+RTX+4090+signed+by+Jensen+Huang&lang=en&timestamp=1710538911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Win this RTX 4090 signed by Jensen Huang")](https://youtu.be/dgbN_E8qebU)
+
+<!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+
+#
 </details>
